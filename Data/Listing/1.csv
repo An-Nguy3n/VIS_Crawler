@@ -1,200 +1,100 @@
-Date of Listing (Date of Listing Approval),Issue Name*3,Code,Outline *4,Written Confirmation *6,Indicated Range (JPY),Public Offering (thous. shares),Trading Unit
-Date of Listing (Date of Listing Approval),Issue Name*3,Market Segment,Securities Report (part I) *5,CG Report,Offering Price (JPY),Secondary Distribution (thous. shares)*7,Earnings Report *8
-"Dec. 27, 2023  (Nov. 24, 2023)","yutori,Inc.",5892,,,"2,420-2,520",85,100
-"Dec. 27, 2023  (Nov. 24, 2023)","yutori,Inc.",Growth,,,2520,485(OA85.5),
-"Dec. 25, 2023  (Nov. 21, 2023)",Nalnet Communications Inc.,5870,,,"870-1,040",56,100
-"Dec. 25, 2023  (Nov. 21, 2023)",Nalnet Communications Inc.,Growth,,,1040,"2,241.9(OA344.6)",
-"Dec. 25, 2023  (Dec. 05, 2023)","ASNOVA Co.,Ltd.",9223,,,-,50,100
-"Dec. 25, 2023  (Dec. 05, 2023)","ASNOVA Co.,Ltd.",Growth,,,1091,430(OA72),
-"Dec. 22, 2023  (Nov. 17, 2023)","Human Technologies,Inc.",5621,,,"940-1,020",1000,100
-"Dec. 22, 2023  (Nov. 17, 2023)","Human Technologies,Inc.",Growth,,,1224,"2,288(OA493.2)",
-"Dec. 22, 2023  (Nov. 20, 2023)","WASEDA GAKUSHUKENKYUKAI CO.,LTD.",5869,,,910-970,150,100
-"Dec. 22, 2023  (Nov. 20, 2023)","WASEDA GAKUSHUKENKYUKAI CO.,LTD.",Standard,,,970,"3,260.6(OA511.5)",
-"Dec. 21, 2023  (Nov. 17, 2023)","MRSO.,Inc",5619,,,"2,110-2,260",75,100
-"Dec. 21, 2023  (Nov. 17, 2023)","MRSO.,Inc",Growth,,,2260,694.1(OA115.3),
-"Dec. 20, 2023  (Nov. 16, 2023)",Nyle Inc.,5618,,,"1,620-1,680",350,100
-"Dec. 20, 2023  (Nov. 16, 2023)",Nyle Inc.,Growth,,,1680,970.8(OA198.1),
-"Dec. 20, 2023  (Nov. 15, 2023)",Rococo Co.Ltd.,5868,,,900-940,900,100
-"Dec. 20, 2023  (Nov. 15, 2023)",Rococo Co.Ltd.,Standard,,,1128,450(OA202.5),
-"Dec. 19, 2023  (Nov. 15, 2023)","ES NETWORKS CO.,LTD.",5867,,,650-730,50,100
-"Dec. 19, 2023  (Nov. 15, 2023)","ES NETWORKS CO.,LTD.",Growth,,,730,300(OA52.5),
-"Dec. 18, 2023  (Nov. 13, 2023)","Ame Kaze Taiyo,Inc.",5616,,,840-870,446.3,100
-"Dec. 18, 2023  (Nov. 13, 2023)","Ame Kaze Taiyo,Inc.",Growth,,,1044,90(OA62.5),
-"Dec. 15, 2023  (Nov. 10, 2023)",S&J Corporation,5599,,,"1,200-1,320",480,100
-"Dec. 15, 2023  (Nov. 10, 2023)",S&J Corporation,Growth,,,1320,"1,110(OA238.5)",
-"Dec. 15, 2023  (Nov. 10, 2023)","Kairikiya Co.,Ltd.",5891,,,"1,300-1,400",1200,100
-"Dec. 15, 2023  (Nov. 10, 2023)","Kairikiya Co.,Ltd.",Standard,,,1400,250(OA217.5),
-"Dec. 12, 2023  (Nov. 08, 2023)","OutlookConsulting Co.,Ltd.",5596,,,"1,700-1,800",50,100
-"Dec. 12, 2023  (Nov. 08, 2023)","OutlookConsulting Co.,Ltd.",Growth,,,1800,"1,812.8(OA279.4)",
-"Dec. 12, 2023  (Nov. 08, 2023)","Blue innovation Co.,Ltd.",5597,,,"1,220-1,320",550,100
-"Dec. 12, 2023  (Nov. 08, 2023)","Blue innovation Co.,Ltd.",Growth,,,1584,196.2(OA111),
-"Dec. 06, 2023  (Oct. 31, 2023)","Institute for Q-shu Pioneers of Space,Inc.",5595,,,380-390,8918.6,100
-"Dec. 06, 2023  (Oct. 31, 2023)","Institute for Q-shu Pioneers of Space,Inc.",Growth,,,390,"(OA1,337.7)",
-"Dec. 04, 2023  (Oct. 30, 2023)","ASMARQ Co.,Ltd.",4197,,,"2,150-2,300",85,100
-"Dec. 04, 2023  (Oct. 30, 2023)","ASMARQ Co.,Ltd.",Standard,,,2300,425(OA76.5),
-"Nov. 22, 2023  (Oct. 19, 2023)","VALUE CREATION CO.,LTD.",9238,,,"1,610-1,790",105,100
-"Nov. 22, 2023  (Oct. 19, 2023)","VALUE CREATION CO.,LTD.",Growth,,,1790,198(OA45.4),
-"Nov. 16, 2023  (Oct. 12, 2023)","Japan Eyewear Holdings Co.,Ltd.",5889,,,"1,330-1,360",1400,100
-"Nov. 16, 2023  (Oct. 12, 2023)","Japan Eyewear Holdings Co.,Ltd.",Standard,,,1360,"5,208(OA991.1)",
-"Nov. 08, 2023  (Oct. 05, 2023)","DAIWA CYCLE CO.,LTD.",5888,,,"1,530-1,610",600,100
-"Nov. 08, 2023  (Oct. 05, 2023)","DAIWA CYCLE CO.,LTD.",Growth,,,1610,200(OA120),
-"Oct. 27, 2023  (Sep. 22, 2023)",DreamArts Corporation,4811,,,"2,340-2,660",220,100
-"Oct. 27, 2023  (Sep. 22, 2023)",DreamArts Corporation,Growth,,,2660,572.1(OA118.8),
-"Oct. 26, 2023  (Sep. 21, 2023)","Emimen Co.,Ltd.",9237,,,"1,140-1,240",280,100
-"Oct. 26, 2023  (Sep. 21, 2023)","Emimen Co.,Ltd.",Growth,,,1240,150(OA64.5),
-"Oct. 25, 2023  (Sep. 22, 2023)","ZENHOREN CO.,LTD.",5845,,,560-600,2549.2,100
-"Oct. 25, 2023  (Sep. 22, 2023)","ZENHOREN CO.,LTD.",Standard,,,600,"3,406.8(OA893.4)",
-"Oct. 25, 2023  (Sep. 21, 2023)",KOKUSAI ELECTRIC CORPORATION,6525,,,"1,830-1,840",-,100
-"Oct. 25, 2023  (Sep. 21, 2023)",KOKUSAI ELECTRIC CORPORATION,Prime,,,1840,"58,847.6(OA8,827.1)",
-"Oct. 24, 2023  (Sep. 20, 2023)",Japan M&A Solution Incorporated,9236,,,"1,200-1,340",180,100
-"Oct. 24, 2023  (Sep. 20, 2023)",Japan M&A Solution Incorporated,Growth,,,1340,202.4(OA57.3),
-"Oct. 23, 2023  (Sep. 19, 2023)","Ureru Net Advertising Co.,Ltd.",9235,,,830-910,450,100
-"Oct. 23, 2023  (Sep. 19, 2023)","Ureru Net Advertising Co.,Ltd.",Growth,,,910,450(OA135),
-"Oct. 17, 2023  (Sep. 12, 2023)","K Pharma,Inc.",4896,,,"900-1,040",1680,100
-"Oct. 17, 2023  (Sep. 12, 2023)","K Pharma,Inc.",Growth,,,950,(OA252),
-"Oct. 04, 2023  (Aug. 30, 2023)","Kusurinomadoguchi,Inc.",5592,,,"1,600-1,700",1800,100
-"Oct. 04, 2023  (Aug. 30, 2023)","Kusurinomadoguchi,Inc.",Growth,,,1700,"1,000(OA420)",
-"Oct. 04, 2023  (Aug. 30, 2023)",Caster Co.Ltd.,9331,,,720-760,350,100
-"Oct. 04, 2023  (Aug. 30, 2023)",Caster Co.Ltd.,Growth,,,760,(OA52.5),
-"Oct. 03, 2023  (Aug. 29, 2023)","Nippon Insure Co.,Ltd.",5843,,,790-810,650,100
-"Oct. 03, 2023  (Aug. 29, 2023)","Nippon Insure Co.,Ltd.",Standard,,,810,770(OA213),
-"Oct. 03, 2023  (Aug. 30, 2023)","Seibu Giken Co.,Ltd.",6223,,,"2,500-2,600",1930,100
-"Oct. 03, 2023  (Aug. 30, 2023)","Seibu Giken Co.,Ltd.",Standard,,,2600,"3,340.7(OA790.6)",
-"Oct. 02, 2023  (Sep. 01, 2023)",MIGALO HOLDINGS Inc. **,5535,,,-,-,100
-"Oct. 02, 2023  (Sep. 01, 2023)",MIGALO HOLDINGS Inc. **,Prime,,-,-,-,-
-"Oct. 02, 2023  (Sep. 01, 2023)","Kyoto Financial Group,Inc. **",5844,,,-,-,100
-"Oct. 02, 2023  (Sep. 01, 2023)","Kyoto Financial Group,Inc. **",Prime,,-,-,-,-
-"Oct. 02, 2023  (Sep. 01, 2023)",NPR-RIKEN CORPORATION **,6209,,,-,-,100
-"Oct. 02, 2023  (Sep. 01, 2023)",NPR-RIKEN CORPORATION **,Prime,,-,-,-,-
-"Oct. 02, 2023  (Sep. 01, 2023)","NISSO HOLDINGS Co.,Ltd. **",9332,,,-,-,100
-"Oct. 02, 2023  (Sep. 01, 2023)","NISSO HOLDINGS Co.,Ltd. **",Prime,,-,-,-,-
-"Sep. 27, 2023  (Aug. 24, 2023)","Okamura Foods Co.,Ltd",2938,,,"1,600-1,680",1050,100
-"Sep. 27, 2023  (Aug. 24, 2023)","Okamura Foods Co.,Ltd",Standard,,,1680,(OA157.5),
-"Sep. 27, 2023  (Aug. 22, 2023)",AVILEN Inc.,5591,,,"2,000-2,120",50,100
-"Sep. 27, 2023  (Aug. 22, 2023)",AVILEN Inc.,Growth,,,2120,"1,386.9(OA215.5)",
-"Sep. 26, 2023  (Aug. 22, 2023)","AUTOSERVER CO.,LTD.",5589,,,"2,400-2,670",400,100
-"Sep. 26, 2023  (Aug. 22, 2023)","AUTOSERVER CO.,LTD.",Standard,,,2670,"1,600(OA300)",
-"Sep. 26, 2023  (Aug. 22, 2023)","NETSTARS Co.,Ltd.",5590,,,"1,420-1,450",700,100
-"Sep. 26, 2023  (Aug. 22, 2023)","NETSTARS Co.,Ltd.",Growth,,,1450,"2,524.1(OA483.6)",
-"Sep. 25, 2023  (Aug. 21, 2023)","J.E.T.Co.,LTD.",6228,,,"4,300-4,630",600,100
-"Sep. 25, 2023  (Aug. 21, 2023)","J.E.T.Co.,LTD.",Standard,,,4630,800(OA210),
-"Sep. 22, 2023  (Aug. 18, 2023)","Sasatoku Printing Co.,Ltd.",3958,,,580-600,500,100
-"Sep. 22, 2023  (Aug. 18, 2023)","Sasatoku Printing Co.,Ltd.",Standard,,,600,"1,253.9(OA263)",
-"Sep. 22, 2023  (Aug. 18, 2023)","Fast Accounting Co.,Ltd",5588,,,"1,120-1,320",473.6,100
-"Sep. 22, 2023  (Aug. 18, 2023)","Fast Accounting Co.,Ltd",Growth,,,1320,103(OA86.4),
-"Sep. 21, 2023  (Aug. 17, 2023)",AGEHA Inc.,9330,,,"1,340-1,400",350,100
-"Sep. 21, 2023  (Aug. 17, 2023)",AGEHA Inc.,Growth,,,1400,100(OA67.5),
-"Sep. 20, 2023  (Aug. 17, 2023)",Integral Corporation,5842,,,"2,300-2,400",5200,100
-"Sep. 20, 2023  (Aug. 17, 2023)",Integral Corporation,Growth,,,2400,"2,300(OA1,125)",
-"Sep. 12, 2023  (Aug. 08, 2023)","Rise Consulting Group,Inc.",9168,,,800-850,129.8,100
-"Sep. 12, 2023  (Aug. 08, 2023)","Rise Consulting Group,Inc.",Growth,,,850,"12,541.6(OA1,900.7)",
-"Aug. 30, 2023  (Jul. 27, 2023)",Inbound Platform Corp.,5587,,,"1,750-1,850",249.6,100
-"Aug. 30, 2023  (Jul. 27, 2023)",Inbound Platform Corp.,Growth,,,1850,566.4(OA122.4),
-"Aug. 09, 2023  (Jul. 05, 2023)","JRC Co.,Ltd.",6224,,,"1,000-1,110",50,100
-"Aug. 09, 2023  (Jul. 05, 2023)","JRC Co.,Ltd.",Growth,,,1110,"6,115.3(OA924.7)",
-"Jul. 31, 2023  (Jun. 26, 2023)",Laboro.AI Inc.,5586,,,525-580,1759.8,100
-"Jul. 31, 2023  (Jun. 26, 2023)",Laboro.AI Inc.,Growth,,,580,"2,404.7(OA624.6)",
-"Jul. 28, 2023  (Jun. 23, 2023)","Qualtec Co.,Ltd.",9165,,,"2,400-2,540",250,100
-"Jul. 28, 2023  (Jun. 23, 2023)","Qualtec Co.,Ltd.",Growth,,,2540,955(OA180.7),
-"Jul. 28, 2023  (Jun. 23, 2023)",GENDA Inc.,9166,,,"1,740-1,770",2200,100
-"Jul. 28, 2023  (Jun. 23, 2023)",GENDA Inc.,Growth,,,1770,"5,591(OA1,168.6)",
-"Jul. 26, 2023  (Jun. 21, 2023)","TECNISCO,LTD.",2962,,,510-560,2281,100
-"Jul. 26, 2023  (Jun. 21, 2023)","TECNISCO,LTD.",Standard,,,560,(OA342.1),
-"Jul. 26, 2023  (Jun. 21, 2023)","EcoNaviSta,Inc.",5585,,,"1,180-1,300",1000,100
-"Jul. 26, 2023  (Jun. 21, 2023)","EcoNaviSta,Inc.",Growth,,,1300,"1,100(OA315)",
-"Jul. 24, 2023  (Jun. 20, 2023)",TRYT Inc.,9164,,,"1,100-1,300",-,100
-"Jul. 24, 2023  (Jun. 20, 2023)",TRYT Inc.,Growth,,,1200,"40,000(OA6,000)",
-"Jul. 21, 2023  (Jun. 19, 2023)",Nareru Group Inc.,9163,,,"2,560-2,690",150,100
-"Jul. 21, 2023  (Jun. 19, 2023)",Nareru Group Inc.,Growth,,,2690,"3,331.8(OA522.2)",
-"Jul. 07, 2023  (Jun. 02, 2023)",GRID Inc.,5582,,,"2,000-2,140",876,100
-"Jul. 07, 2023  (Jun. 02, 2023)",GRID Inc.,Growth,,,2140,272(OA172.2),
-"Jul. 05, 2023  (Jun. 01, 2023)","Bleach,Inc.",9162,,,"1,250-1,340",5000,100
-"Jul. 05, 2023  (Jun. 01, 2023)","Bleach,Inc.",Growth,,,1340,"1,200(OA930)",
-"Jul. 04, 2023  (May 29, 2023)","AeroEdge Co.,Ltd",7409,,,"1,460-1,690",368,100
-"Jul. 04, 2023  (May 29, 2023)","AeroEdge Co.,Ltd",Growth,,,1690,431.6(OA119.9),
-"Jul. 03, 2023  (Jun. 01, 2023)","Integrated Design & Engineering Holdings Co.,Ltd. **",9161,,,-,-,100
-"Jul. 03, 2023  (Jun. 01, 2023)","Integrated Design & Engineering Holdings Co.,Ltd. **",Prime,,-,-,-,-
-"Jun. 30, 2023  (May 26, 2023)","KURADASHI.Co.,Ltd.",5884,,,500-520,1150,100
-"Jun. 30, 2023  (May 26, 2023)","KURADASHI.Co.,Ltd.",Growth,,,520,"2,150(OA495)",
-"Jun. 30, 2023  (May 26, 2023)","GDEP ADVANCE,Inc.",5885,,,"4,170-4,510",120,100
-"Jun. 30, 2023  (May 26, 2023)","GDEP ADVANCE,Inc.",Standard,,,4510,280(OA60),
-"Jun. 30, 2023  (May 26, 2023)","NOVARESE,Inc.",9160,,,550-600,-,100
-"Jun. 30, 2023  (May 26, 2023)","NOVARESE,Inc.",Standard,,,600,"10,881.5(OA1,632.2)",
-"Jun. 29, 2023  (May 26, 2023)",W TOKYO Inc.,9159,,,"2,870-3,000",120,100
-"Jun. 29, 2023  (May 26, 2023)",W TOKYO Inc.,Growth,,,3000,319(OA65.8),
-"Jun. 28, 2023  (May 25, 2023)",Noile-Immune Biotech Inc.,4893,,,700-740,3623,100
-"Jun. 28, 2023  (May 25, 2023)",Noile-Immune Biotech Inc.,Growth,,,740,(OA543.4),
-"Jun. 28, 2023  (May 25, 2023)","Prodelight Co.,Ltd.",5580,,,"1,400-1,440",150,100
-"Jun. 28, 2023  (May 25, 2023)","Prodelight Co.,Ltd.",Growth,,,1440,324.7(OA71.2),
-"Jun. 27, 2023  (May 23, 2023)",Cuorips Inc.,4894,,,"1,400-1,560",1700,100
-"Jun. 27, 2023  (May 23, 2023)",Cuorips Inc.,Growth,,,1560,500(OA330),
-"Jun. 27, 2023  (May 22, 2023)","Elitz Holdings Co.,Ltd.",5533,,,"1,420-1,580",200,100
-"Jun. 27, 2023  (May 22, 2023)","Elitz Holdings Co.,Ltd.",Standard,,,1580,75.1(OA41.2),
-"Jun. 26, 2023  (May 19, 2023)",Bridge Consulting Group Inc.,9225,,,"1,150-1,300",100,100
-"Jun. 26, 2023  (May 19, 2023)",Bridge Consulting Group Inc.,Growth,,,1300,100(OA30),
-"Jun. 23, 2023  (May 19, 2023)","AR advanced technology,Inc.",5578,,,"1,080-1,260",278.9,100
-"Jun. 23, 2023  (May 19, 2023)","AR advanced technology,Inc.",Growth,,,1260,454.6(OA110),
-"Jun. 22, 2023  (May 19, 2023)",REALGATE INC.,5532,,,"1,700-1,790",670,100
-"Jun. 22, 2023  (May 19, 2023)",REALGATE INC.,Growth,,,1790,(OA100.5),
-"Jun. 22, 2023  (May 19, 2023)",Aidemy Inc.,5577,,,"810-1,050",50,100
-"Jun. 22, 2023  (May 19, 2023)",Aidemy Inc.,Growth,,,1050,400(OA67.5),
-"Jun. 21, 2023  (May 19, 2023)",O.B.System Inc.,5576,,,"1,510-1,710",200,100
-"Jun. 21, 2023  (May 19, 2023)",O.B.System Inc.,Standard,,,1710,400(OA90),
-"Jun. 21, 2023  (May 18, 2023)",CUC Inc.,9158,,,"1,800-1,920",6400,100
-"Jun. 21, 2023  (May 18, 2023)",CUC Inc.,Growth,,,1920,(OA960),
-"Jun. 14, 2023  (May 11, 2023)",Globee Inc.,5575,,,"1,080-1,150",110.8,100
-"Jun. 14, 2023  (May 11, 2023)",Globee Inc.,Growth,,,1150,717.5(OA124.2),
-"Jun. 13, 2023  (May 09, 2023)","ABEJA,Inc.",5574,,,"1,450-1,550",700,100
-"Jun. 13, 2023  (May 09, 2023)","ABEJA,Inc.",Growth,,,1550,550(OA187.5),
-"Apr. 26, 2023  (Mar. 23, 2023)",Ridge-i Inc.,5572,,,"1,600-1,750",330,100
-"Apr. 26, 2023  (Mar. 23, 2023)",Ridge-i Inc.,Growth,,,1750,261(OA88.6),
-"Apr. 25, 2023  (Mar. 22, 2023)",RHEOS CAPITAL WORKS Inc.,7330,,,"1,100-1,300",357.7,100
-"Apr. 25, 2023  (Mar. 22, 2023)",RHEOS CAPITAL WORKS Inc.,Growth,,,1300,"2,859.7(OA482.6)",
-"Apr. 21, 2023  (Mar. 22, 2023)","Rakuten Bank,Ltd.",5838,,,"1,300-1,400",5555.5,100
-"Apr. 21, 2023  (Mar. 22, 2023)","Rakuten Bank,Ltd.",Prime,,,1400,"53,951.3(OA4,463)",
-"Apr. 20, 2023  (Mar. 16, 2023)","NANKAI CHEMICAL COMPANY,LIMITED",4040,,,"1,660-1,740",600,100
-"Apr. 20, 2023  (Mar. 16, 2023)","NANKAI CHEMICAL COMPANY,LIMITED",Standard,,,1740,26.3(OA93.9),
-"Apr. 19, 2023  (Mar. 15, 2023)","Excite Holdings Co.,Ltd.",5571,,,"1,220-1,340",900,100
-"Apr. 19, 2023  (Mar. 15, 2023)","Excite Holdings Co.,Ltd.",Standard,,,1340,(OA135),
-"Apr. 18, 2023  (Mar. 13, 2023)","JENOBA CO.,LTD.",5570,,,450-470,800,100
-"Apr. 18, 2023  (Mar. 13, 2023)","JENOBA CO.,LTD.",Growth,,,470,(OA120),
-"Apr. 12, 2023  (Mar. 08, 2023)","ispace,inc.",9348,,,234-254,26519.50,100
-"Apr. 12, 2023  (Mar. 08, 2023)","ispace,inc.",Growth,,,254,"(OA1,242.9)",
-"Apr. 04, 2023  (Feb. 27, 2023)",Transaction Media Networks Inc.,5258,,,880-930,5971.70,100
-"Apr. 04, 2023  (Feb. 27, 2023)",Transaction Media Networks Inc.,Growth,,,930,"5,379.5(OA1,702.6)",
-"Apr. 03, 2023  (Mar. 01, 2023)",BBD Initiative Inc. **,5259,,,-,-,100
-"Apr. 03, 2023  (Mar. 01, 2023)",BBD Initiative Inc. **,Growth,,-,-,-,-
-"Apr. 03, 2023  (Mar. 01, 2023)","NIPPON KANZAI Holdings Co.,Ltd. **",9347,,,-,-,100
-"Apr. 03, 2023  (Mar. 01, 2023)","NIPPON KANZAI Holdings Co.,Ltd. **",Prime,,-,-,-,-
-"Mar. 31, 2023  (Feb. 24, 2023)","Fusic Co.,Ltd.",5256,,,"1,830-2,000",200,100
-"Mar. 31, 2023  (Feb. 24, 2023)","Fusic Co.,Ltd.",Growth,,,2000,100(OA45),
-"Mar. 31, 2023  (Feb. 24, 2023)","Cocorport,Inc.",9346,,,"3,100-3,150",250,100
-"Mar. 31, 2023  (Feb. 24, 2023)","Cocorport,Inc.",Growth,,,3150,682.8(OA139.9),
-"Mar. 30, 2023  (Feb. 27, 2023)","NOVA SYSTEM CO.,LTD.",5257,,,"1,660-1,700",150,100
-"Mar. 30, 2023  (Feb. 27, 2023)","NOVA SYSTEM CO.,LTD.",Standard,,,1700,200(OA52.5),
-"Mar. 30, 2023  (Feb. 22, 2023)","Bizmates,Inc.",9345,,,"3,100-3,250",200,100
-"Mar. 30, 2023  (Feb. 22, 2023)","Bizmates,Inc.",Growth,,,3250,220(OA63),
-"Mar. 29, 2023  (Feb. 28, 2023)",AnyMind Group Inc.,5027,,,"970-1,000",885.3,100
-"Mar. 29, 2023  (Feb. 28, 2023)",AnyMind Group Inc.,Growth,,,1000,"1,804.2(OA403.4)",
-"Mar. 29, 2023  (Feb. 28, 2023)","SBI Sumishin Net Bank,Ltd.",7163,,,"1,200-1,260",-,100
-"Mar. 29, 2023  (Feb. 28, 2023)","SBI Sumishin Net Bank,Ltd.",Standard,,,1200,"41,468.4(OA6,220.2)",
-"Mar. 28, 2023  (Feb. 20, 2023)",Arent Inc.,5254,,,"1,140-1,440",700,100
-"Mar. 28, 2023  (Feb. 20, 2023)",Arent Inc.,Growth,,,1440,470(OA175.5),
-"Mar. 28, 2023  (Feb. 24, 2023)",Monstarlab Holdings Inc.,5255,,,660-720,1800,100
-"Mar. 28, 2023  (Feb. 24, 2023)",Monstarlab Holdings Inc.,Growth,,,720,"3,393.8(OA779)",
-"Mar. 28, 2023  (Feb. 21, 2023)",Axis Consulting Corporation,9344,,,"1,800-1,950",600,100
-"Mar. 28, 2023  (Feb. 21, 2023)",Axis Consulting Corporation,Growth,,,1950,450(OA157.5),
-"Mar. 27, 2023  (Feb. 17, 2023)",COVER Corporation,5253,,,710-750,1500,100
-"Mar. 27, 2023  (Feb. 17, 2023)",COVER Corporation,Growth,,,750,"10,927.4(OA1,864.1)",
-"Mar. 23, 2023  (Feb. 16, 2023)","Nihon Knowledge Co,Ltd.",5252,,,"1,350-1,500",190,100
-"Mar. 23, 2023  (Feb. 16, 2023)","Nihon Knowledge Co,Ltd.",Growth,,,1500,185(OA56.2),
-"Mar. 23, 2023  (Feb. 15, 2023)","halmek holdings Co.,Ltd.",7119,,,"1,550-1,720",2222,100
-"Mar. 23, 2023  (Feb. 15, 2023)","halmek holdings Co.,Ltd.",Growth,,,1720,226(OA367.2),
-"Mar. 23, 2023  (Feb. 17, 2023)",ibis inc.,9343,,,670-730,700,100
-"Mar. 23, 2023  (Feb. 17, 2023)",ibis inc.,Growth,,,730,150(OA127.5),
-"Mar. 22, 2023  (Feb. 16, 2023)",SHINKO Inc.,7120,,,"2,060-2,200",80,100
-"Mar. 22, 2023  (Feb. 16, 2023)",SHINKO Inc.,Standard,,,2200,794(OA131.1),
-"Feb. 22, 2023  (Jan. 19, 2023)","PRIME STRATEGY CO.,LTD.",5250,,,"1,250-1,390",464,100
-"Feb. 22, 2023  (Jan. 19, 2023)","PRIME STRATEGY CO.,LTD.",Standard,,,1390,503.3(OA145),
-"Jan. 26, 2023  (Dec. 16, 2022)","TECHNOLOGIES,Inc.",5248,,,"900-1,000",300,100
-"Jan. 26, 2023  (Dec. 16, 2022)","TECHNOLOGIES,Inc.",Growth,,,1000,400(OA105),
+Date of Listing (Date of Listing Approval),Issue Name*3,Code,Outline *4,Written Confirmation *6,Indicated Range (JPY),Public Offering (thous. shares),Trading Unit,Market Segment,Securities Report (part I) *5,CG Report,Offering Price (JPY),Secondary Distribution (thous. shares)*7,Earnings Report *8
+"Dec. 27, 2023  (Nov. 24, 2023)","yutori,Inc.",5892,,,"2,420-2,520",85,100,Growth,,,2520,485(OA85.5),
+"Dec. 25, 2023  (Nov. 21, 2023)",Nalnet Communications Inc.,5870,,,"870-1,040",56,100,Growth,,,1040,"2,241.9(OA344.6)",
+"Dec. 25, 2023  (Dec. 05, 2023)","ASNOVA Co.,Ltd.",9223,,,-,50,100,Growth,,,1091,430(OA72),
+"Dec. 22, 2023  (Nov. 17, 2023)","Human Technologies,Inc.",5621,,,"940-1,020",1000,100,Growth,,,1224,"2,288(OA493.2)",
+"Dec. 22, 2023  (Nov. 20, 2023)","WASEDA GAKUSHUKENKYUKAI CO.,LTD.",5869,,,910-970,150,100,Standard,,,970,"3,260.6(OA511.5)",
+"Dec. 21, 2023  (Nov. 17, 2023)","MRSO.,Inc",5619,,,"2,110-2,260",75,100,Growth,,,2260,694.1(OA115.3),
+"Dec. 20, 2023  (Nov. 16, 2023)",Nyle Inc.,5618,,,"1,620-1,680",350,100,Growth,,,1680,970.8(OA198.1),
+"Dec. 20, 2023  (Nov. 15, 2023)",Rococo Co.Ltd.,5868,,,900-940,900,100,Standard,,,1128,450(OA202.5),
+"Dec. 19, 2023  (Nov. 15, 2023)","ES NETWORKS CO.,LTD.",5867,,,650-730,50,100,Growth,,,730,300(OA52.5),
+"Dec. 18, 2023  (Nov. 13, 2023)","Ame Kaze Taiyo,Inc.",5616,,,840-870,446.3,100,Growth,,,1044,90(OA62.5),
+"Dec. 15, 2023  (Nov. 10, 2023)",S&J Corporation,5599,,,"1,200-1,320",480,100,Growth,,,1320,"1,110(OA238.5)",
+"Dec. 15, 2023  (Nov. 10, 2023)","Kairikiya Co.,Ltd.",5891,,,"1,300-1,400",1200,100,Standard,,,1400,250(OA217.5),
+"Dec. 12, 2023  (Nov. 08, 2023)","OutlookConsulting Co.,Ltd.",5596,,,"1,700-1,800",50,100,Growth,,,1800,"1,812.8(OA279.4)",
+"Dec. 12, 2023  (Nov. 08, 2023)","Blue innovation Co.,Ltd.",5597,,,"1,220-1,320",550,100,Growth,,,1584,196.2(OA111),
+"Dec. 06, 2023  (Oct. 31, 2023)","Institute for Q-shu Pioneers of Space,Inc.",5595,,,380-390,8918.6,100,Growth,,,390,"(OA1,337.7)",
+"Dec. 04, 2023  (Oct. 30, 2023)","ASMARQ Co.,Ltd.",4197,,,"2,150-2,300",85,100,Standard,,,2300,425(OA76.5),
+"Nov. 22, 2023  (Oct. 19, 2023)","VALUE CREATION CO.,LTD.",9238,,,"1,610-1,790",105,100,Growth,,,1790,198(OA45.4),
+"Nov. 16, 2023  (Oct. 12, 2023)","Japan Eyewear Holdings Co.,Ltd.",5889,,,"1,330-1,360",1400,100,Standard,,,1360,"5,208(OA991.1)",
+"Nov. 08, 2023  (Oct. 05, 2023)","DAIWA CYCLE CO.,LTD.",5888,,,"1,530-1,610",600,100,Growth,,,1610,200(OA120),
+"Oct. 27, 2023  (Sep. 22, 2023)",DreamArts Corporation,4811,,,"2,340-2,660",220,100,Growth,,,2660,572.1(OA118.8),
+"Oct. 26, 2023  (Sep. 21, 2023)","Emimen Co.,Ltd.",9237,,,"1,140-1,240",280,100,Growth,,,1240,150(OA64.5),
+"Oct. 25, 2023  (Sep. 22, 2023)","ZENHOREN CO.,LTD.",5845,,,560-600,2549.2,100,Standard,,,600,"3,406.8(OA893.4)",
+"Oct. 25, 2023  (Sep. 21, 2023)",KOKUSAI ELECTRIC CORPORATION,6525,,,"1,830-1,840",-,100,Prime,,,1840,"58,847.6(OA8,827.1)",
+"Oct. 24, 2023  (Sep. 20, 2023)",Japan M&A Solution Incorporated,9236,,,"1,200-1,340",180,100,Growth,,,1340,202.4(OA57.3),
+"Oct. 23, 2023  (Sep. 19, 2023)","Ureru Net Advertising Co.,Ltd.",9235,,,830-910,450,100,Growth,,,910,450(OA135),
+"Oct. 17, 2023  (Sep. 12, 2023)","K Pharma,Inc.",4896,,,"900-1,040",1680,100,Growth,,,950,(OA252),
+"Oct. 04, 2023  (Aug. 30, 2023)","Kusurinomadoguchi,Inc.",5592,,,"1,600-1,700",1800,100,Growth,,,1700,"1,000(OA420)",
+"Oct. 04, 2023  (Aug. 30, 2023)",Caster Co.Ltd.,9331,,,720-760,350,100,Growth,,,760,(OA52.5),
+"Oct. 03, 2023  (Aug. 29, 2023)","Nippon Insure Co.,Ltd.",5843,,,790-810,650,100,Standard,,,810,770(OA213),
+"Oct. 03, 2023  (Aug. 30, 2023)","Seibu Giken Co.,Ltd.",6223,,,"2,500-2,600",1930,100,Standard,,,2600,"3,340.7(OA790.6)",
+"Oct. 02, 2023  (Sep. 01, 2023)",MIGALO HOLDINGS Inc. **,5535,,,-,-,100,Prime,,-,-,-,-
+"Oct. 02, 2023  (Sep. 01, 2023)","Kyoto Financial Group,Inc. **",5844,,,-,-,100,Prime,,-,-,-,-
+"Oct. 02, 2023  (Sep. 01, 2023)",NPR-RIKEN CORPORATION **,6209,,,-,-,100,Prime,,-,-,-,-
+"Oct. 02, 2023  (Sep. 01, 2023)","NISSO HOLDINGS Co.,Ltd. **",9332,,,-,-,100,Prime,,-,-,-,-
+"Sep. 27, 2023  (Aug. 24, 2023)","Okamura Foods Co.,Ltd",2938,,,"1,600-1,680",1050,100,Standard,,,1680,(OA157.5),
+"Sep. 27, 2023  (Aug. 22, 2023)",AVILEN Inc.,5591,,,"2,000-2,120",50,100,Growth,,,2120,"1,386.9(OA215.5)",
+"Sep. 26, 2023  (Aug. 22, 2023)","AUTOSERVER CO.,LTD.",5589,,,"2,400-2,670",400,100,Standard,,,2670,"1,600(OA300)",
+"Sep. 26, 2023  (Aug. 22, 2023)","NETSTARS Co.,Ltd.",5590,,,"1,420-1,450",700,100,Growth,,,1450,"2,524.1(OA483.6)",
+"Sep. 25, 2023  (Aug. 21, 2023)","J.E.T.Co.,LTD.",6228,,,"4,300-4,630",600,100,Standard,,,4630,800(OA210),
+"Sep. 22, 2023  (Aug. 18, 2023)","Sasatoku Printing Co.,Ltd.",3958,,,580-600,500,100,Standard,,,600,"1,253.9(OA263)",
+"Sep. 22, 2023  (Aug. 18, 2023)","Fast Accounting Co.,Ltd",5588,,,"1,120-1,320",473.6,100,Growth,,,1320,103(OA86.4),
+"Sep. 21, 2023  (Aug. 17, 2023)",AGEHA Inc.,9330,,,"1,340-1,400",350,100,Growth,,,1400,100(OA67.5),
+"Sep. 20, 2023  (Aug. 17, 2023)",Integral Corporation,5842,,,"2,300-2,400",5200,100,Growth,,,2400,"2,300(OA1,125)",
+"Sep. 12, 2023  (Aug. 08, 2023)","Rise Consulting Group,Inc.",9168,,,800-850,129.8,100,Growth,,,850,"12,541.6(OA1,900.7)",
+"Aug. 30, 2023  (Jul. 27, 2023)",Inbound Platform Corp.,5587,,,"1,750-1,850",249.6,100,Growth,,,1850,566.4(OA122.4),
+"Aug. 09, 2023  (Jul. 05, 2023)","JRC Co.,Ltd.",6224,,,"1,000-1,110",50,100,Growth,,,1110,"6,115.3(OA924.7)",
+"Jul. 31, 2023  (Jun. 26, 2023)",Laboro.AI Inc.,5586,,,525-580,1759.8,100,Growth,,,580,"2,404.7(OA624.6)",
+"Jul. 28, 2023  (Jun. 23, 2023)","Qualtec Co.,Ltd.",9165,,,"2,400-2,540",250,100,Growth,,,2540,955(OA180.7),
+"Jul. 28, 2023  (Jun. 23, 2023)",GENDA Inc.,9166,,,"1,740-1,770",2200,100,Growth,,,1770,"5,591(OA1,168.6)",
+"Jul. 26, 2023  (Jun. 21, 2023)","TECNISCO,LTD.",2962,,,510-560,2281,100,Standard,,,560,(OA342.1),
+"Jul. 26, 2023  (Jun. 21, 2023)","EcoNaviSta,Inc.",5585,,,"1,180-1,300",1000,100,Growth,,,1300,"1,100(OA315)",
+"Jul. 24, 2023  (Jun. 20, 2023)",TRYT Inc.,9164,,,"1,100-1,300",-,100,Growth,,,1200,"40,000(OA6,000)",
+"Jul. 21, 2023  (Jun. 19, 2023)",Nareru Group Inc.,9163,,,"2,560-2,690",150,100,Growth,,,2690,"3,331.8(OA522.2)",
+"Jul. 07, 2023  (Jun. 02, 2023)",GRID Inc.,5582,,,"2,000-2,140",876,100,Growth,,,2140,272(OA172.2),
+"Jul. 05, 2023  (Jun. 01, 2023)","Bleach,Inc.",9162,,,"1,250-1,340",5000,100,Growth,,,1340,"1,200(OA930)",
+"Jul. 04, 2023  (May 29, 2023)","AeroEdge Co.,Ltd",7409,,,"1,460-1,690",368,100,Growth,,,1690,431.6(OA119.9),
+"Jul. 03, 2023  (Jun. 01, 2023)","Integrated Design & Engineering Holdings Co.,Ltd. **",9161,,,-,-,100,Prime,,-,-,-,-
+"Jun. 30, 2023  (May 26, 2023)","KURADASHI.Co.,Ltd.",5884,,,500-520,1150,100,Growth,,,520,"2,150(OA495)",
+"Jun. 30, 2023  (May 26, 2023)","GDEP ADVANCE,Inc.",5885,,,"4,170-4,510",120,100,Standard,,,4510,280(OA60),
+"Jun. 30, 2023  (May 26, 2023)","NOVARESE,Inc.",9160,,,550-600,-,100,Standard,,,600,"10,881.5(OA1,632.2)",
+"Jun. 29, 2023  (May 26, 2023)",W TOKYO Inc.,9159,,,"2,870-3,000",120,100,Growth,,,3000,319(OA65.8),
+"Jun. 28, 2023  (May 25, 2023)",Noile-Immune Biotech Inc.,4893,,,700-740,3623,100,Growth,,,740,(OA543.4),
+"Jun. 28, 2023  (May 25, 2023)","Prodelight Co.,Ltd.",5580,,,"1,400-1,440",150,100,Growth,,,1440,324.7(OA71.2),
+"Jun. 27, 2023  (May 23, 2023)",Cuorips Inc.,4894,,,"1,400-1,560",1700,100,Growth,,,1560,500(OA330),
+"Jun. 27, 2023  (May 22, 2023)","Elitz Holdings Co.,Ltd.",5533,,,"1,420-1,580",200,100,Standard,,,1580,75.1(OA41.2),
+"Jun. 26, 2023  (May 19, 2023)",Bridge Consulting Group Inc.,9225,,,"1,150-1,300",100,100,Growth,,,1300,100(OA30),
+"Jun. 23, 2023  (May 19, 2023)","AR advanced technology,Inc.",5578,,,"1,080-1,260",278.9,100,Growth,,,1260,454.6(OA110),
+"Jun. 22, 2023  (May 19, 2023)",REALGATE INC.,5532,,,"1,700-1,790",670,100,Growth,,,1790,(OA100.5),
+"Jun. 22, 2023  (May 19, 2023)",Aidemy Inc.,5577,,,"810-1,050",50,100,Growth,,,1050,400(OA67.5),
+"Jun. 21, 2023  (May 19, 2023)",O.B.System Inc.,5576,,,"1,510-1,710",200,100,Standard,,,1710,400(OA90),
+"Jun. 21, 2023  (May 18, 2023)",CUC Inc.,9158,,,"1,800-1,920",6400,100,Growth,,,1920,(OA960),
+"Jun. 14, 2023  (May 11, 2023)",Globee Inc.,5575,,,"1,080-1,150",110.8,100,Growth,,,1150,717.5(OA124.2),
+"Jun. 13, 2023  (May 09, 2023)","ABEJA,Inc.",5574,,,"1,450-1,550",700,100,Growth,,,1550,550(OA187.5),
+"Apr. 26, 2023  (Mar. 23, 2023)",Ridge-i Inc.,5572,,,"1,600-1,750",330,100,Growth,,,1750,261(OA88.6),
+"Apr. 25, 2023  (Mar. 22, 2023)",RHEOS CAPITAL WORKS Inc.,7330,,,"1,100-1,300",357.7,100,Growth,,,1300,"2,859.7(OA482.6)",
+"Apr. 21, 2023  (Mar. 22, 2023)","Rakuten Bank,Ltd.",5838,,,"1,300-1,400",5555.5,100,Prime,,,1400,"53,951.3(OA4,463)",
+"Apr. 20, 2023  (Mar. 16, 2023)","NANKAI CHEMICAL COMPANY,LIMITED",4040,,,"1,660-1,740",600,100,Standard,,,1740,26.3(OA93.9),
+"Apr. 19, 2023  (Mar. 15, 2023)","Excite Holdings Co.,Ltd.",5571,,,"1,220-1,340",900,100,Standard,,,1340,(OA135),
+"Apr. 18, 2023  (Mar. 13, 2023)","JENOBA CO.,LTD.",5570,,,450-470,800,100,Growth,,,470,(OA120),
+"Apr. 12, 2023  (Mar. 08, 2023)","ispace,inc.",9348,,,234-254,26519.50,100,Growth,,,254,"(OA1,242.9)",
+"Apr. 04, 2023  (Feb. 27, 2023)",Transaction Media Networks Inc.,5258,,,880-930,5971.70,100,Growth,,,930,"5,379.5(OA1,702.6)",
+"Apr. 03, 2023  (Mar. 01, 2023)",BBD Initiative Inc. **,5259,,,-,-,100,Growth,,-,-,-,-
+"Apr. 03, 2023  (Mar. 01, 2023)","NIPPON KANZAI Holdings Co.,Ltd. **",9347,,,-,-,100,Prime,,-,-,-,-
+"Mar. 31, 2023  (Feb. 24, 2023)","Fusic Co.,Ltd.",5256,,,"1,830-2,000",200,100,Growth,,,2000,100(OA45),
+"Mar. 31, 2023  (Feb. 24, 2023)","Cocorport,Inc.",9346,,,"3,100-3,150",250,100,Growth,,,3150,682.8(OA139.9),
+"Mar. 30, 2023  (Feb. 27, 2023)","NOVA SYSTEM CO.,LTD.",5257,,,"1,660-1,700",150,100,Standard,,,1700,200(OA52.5),
+"Mar. 30, 2023  (Feb. 22, 2023)","Bizmates,Inc.",9345,,,"3,100-3,250",200,100,Growth,,,3250,220(OA63),
+"Mar. 29, 2023  (Feb. 28, 2023)",AnyMind Group Inc.,5027,,,"970-1,000",885.3,100,Growth,,,1000,"1,804.2(OA403.4)",
+"Mar. 29, 2023  (Feb. 28, 2023)","SBI Sumishin Net Bank,Ltd.",7163,,,"1,200-1,260",-,100,Standard,,,1200,"41,468.4(OA6,220.2)",
+"Mar. 28, 2023  (Feb. 20, 2023)",Arent Inc.,5254,,,"1,140-1,440",700,100,Growth,,,1440,470(OA175.5),
+"Mar. 28, 2023  (Feb. 24, 2023)",Monstarlab Holdings Inc.,5255,,,660-720,1800,100,Growth,,,720,"3,393.8(OA779)",
+"Mar. 28, 2023  (Feb. 21, 2023)",Axis Consulting Corporation,9344,,,"1,800-1,950",600,100,Growth,,,1950,450(OA157.5),
+"Mar. 27, 2023  (Feb. 17, 2023)",COVER Corporation,5253,,,710-750,1500,100,Growth,,,750,"10,927.4(OA1,864.1)",
+"Mar. 23, 2023  (Feb. 16, 2023)","Nihon Knowledge Co,Ltd.",5252,,,"1,350-1,500",190,100,Growth,,,1500,185(OA56.2),
+"Mar. 23, 2023  (Feb. 15, 2023)","halmek holdings Co.,Ltd.",7119,,,"1,550-1,720",2222,100,Growth,,,1720,226(OA367.2),
+"Mar. 23, 2023  (Feb. 17, 2023)",ibis inc.,9343,,,670-730,700,100,Growth,,,730,150(OA127.5),
+"Mar. 22, 2023  (Feb. 16, 2023)",SHINKO Inc.,7120,,,"2,060-2,200",80,100,Standard,,,2200,794(OA131.1),
+"Feb. 22, 2023  (Jan. 19, 2023)","PRIME STRATEGY CO.,LTD.",5250,,,"1,250-1,390",464,100,Standard,,,1390,503.3(OA145),
+"Jan. 26, 2023  (Dec. 16, 2022)","TECHNOLOGIES,Inc.",5248,,,"900-1,000",300,100,Growth,,,1000,400(OA105),

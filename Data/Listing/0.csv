@@ -1,94 +1,47 @@
-Date of Listing (Date of Listing Approval),Issue Name*3,Code,Outline *4,Written Confirmation *6,Indicated Range (JPY),Public Offering (thous. shares),Trading Unit
-Date of Listing (Date of Listing Approval),Issue Name*3,Market Segment,Securities Report (part I) *5,CG Report,Offering Price (JPY),Secondary Distribution (thous. shares)*7,Earnings Report *8
-"Jul. 02, 2024  (May 27, 2024)","PRISM BioLab Co.,LTD",206A,,,-,4000,100
-"Jul. 02, 2024  (May 27, 2024)","PRISM BioLab Co.,LTD",Growth,,,-,(OA600),-
-"Jul. 01, 2024  (Jun. 03, 2024)",KOZO KEIKAKU ENGINEERING HOLDINGS Inc. **,208A,,,-,-,100
-"Jul. 01, 2024  (Jun. 03, 2024)",KOZO KEIKAKU ENGINEERING HOLDINGS Inc. **,Standard,,-,-,-,-
-"Jun. 28, 2024  (May 24, 2024)",LOGOS HOLDINGS INC.,205A,,,-,50,100
-"Jun. 28, 2024  (May 24, 2024)",LOGOS HOLDINGS INC.,Growth,,,-,"1,346.4(OA209.4)",-
-"Jun. 27, 2024  (May 23, 2024)","MAMEZO DIGITAL HOLDINGS CO.,LTD.",202A,,,-,50,100
-"Jun. 27, 2024  (May 23, 2024)","MAMEZO DIGITAL HOLDINGS CO.,LTD.",Growth,,,-,"4,480(OA607.5)",-
-"Jun. 21, 2024  (May 17, 2024)","MFS,Inc.",196A,,,370-400,2700,100
-"Jun. 21, 2024  (May 17, 2024)","MFS,Inc.",Growth,,,-,"1,624.2(OA648.6)",-
-"Jun. 20, 2024  (May 16, 2024)","WOLVES HAND Co.,Ltd.",194A,,,755-770,50,100
-"Jun. 20, 2024  (May 16, 2024)","WOLVES HAND Co.,Ltd.",Growth,,,-,863.1(OA136.9),-
-"Jun. 20, 2024  (May 17, 2024)","TAUNS Laboratories,Inc.",197A,,,440-460,-,100
-"Jun. 20, 2024  (May 17, 2024)","TAUNS Laboratories,Inc.",Standard,,,-,"21,090(OA3,163.5)",-
-"Jun. 20, 2024  (May 17, 2024)",PostPrime Inc.,198A,,,430-450,100,100
-"Jun. 20, 2024  (May 17, 2024)",PostPrime Inc.,Growth,,,-,"2,830(OA439.5)",-
-"Jun. 19, 2024  (May 16, 2024)",Ricecurry Inc.,195A,,,"1,240-1,420",229.5,100
-"Jun. 19, 2024  (May 16, 2024)",Ricecurry Inc.,Growth,,,-,476.6(OA105.9),-
-"Jun. 18, 2024  (May 15, 2024)",Integroup Inc.,192A,,,"3,830-3,960",50,100
-"Jun. 18, 2024  (May 15, 2024)",Integroup Inc.,Growth,,,-,480.2(OA79.4),-
-"Jun. 14, 2024  (May 10, 2024)",Chordia Therapeutics Inc.,190A,,,143-153,9100,100
-"Jun. 14, 2024  (May 10, 2024)",Chordia Therapeutics Inc.,Growth,,,153,"(OA1,365)",-
-"Jun. 11, 2024  (May 08, 2024)","D&M COMPANY CO.,LTD",189A,,,"950-1,000",580,100
-"Jun. 11, 2024  (May 08, 2024)","D&M COMPANY CO.,LTD",Growth,,,1000,100(OA102),-
-"Jun. 05, 2024  (May 01, 2024)",Astroscale Holdings Inc.,186A,,,750-850,22169.2,100
-"Jun. 05, 2024  (May 01, 2024)",Astroscale Holdings Inc.,Growth,,,850,"2,760(OA3,124.9)",
-"Jun. 03, 2024  (May 01, 2024)","SAMTY HOLDINGS Co.,Ltd. **",187A,,,-,-,100
-"Jun. 03, 2024  (May 01, 2024)","SAMTY HOLDINGS Co.,Ltd. **",Prime,,-,-,-,-
-"May 28, 2024  (Apr. 22, 2024)","Manabi-aid Co.,Ltd.",184A,,,910-970,180,100
-"May 28, 2024  (Apr. 22, 2024)","Manabi-aid Co.,Ltd.",Growth,,,970,552(OA109.8),
-"Apr. 25, 2024  (Mar. 22, 2024)","Kohjin Bio Co.,Ltd.",177A,,,"1,840-1,900",850,100
-"Apr. 25, 2024  (Mar. 22, 2024)","Kohjin Bio Co.,Ltd.",Growth,,,1900,(OA127.5),
-"Apr. 24, 2024  (Mar. 21, 2024)",Rezil Inc.,176A,,,"1,100-1,200",150,100
-"Apr. 24, 2024  (Mar. 21, 2024)",Rezil Inc.,Growth,,,1200,"5,005.1(OA773.2)",
-"Apr. 16, 2024  (Mar. 13, 2024)","Will Smart Co.,LTD.",175A,,,"1,320-1,380",200,100
-"Apr. 16, 2024  (Mar. 13, 2024)","Will Smart Co.,LTD.",Growth,,,1656,472(OA100.8),
-"Apr. 11, 2024  (Mar. 07, 2024)",Hammock Inc.,173A,,,"1,940-2,060",50,100
-"Apr. 11, 2024  (Mar. 07, 2024)",Hammock Inc.,Growth,,,2060,"1,277(OA199)",
-"Apr. 08, 2024  (Mar. 04, 2024)",itamiarts inc.,168A,,,"1,580-1,600",420,100
-"Apr. 08, 2024  (Mar. 04, 2024)",itamiarts inc.,Growth,,,1600,150(OA85.5),
-"Apr. 04, 2024  (Feb. 29, 2024)","As Partners CO.,LTD.",160A,,,"1,890-1,920",393,100
-"Apr. 04, 2024  (Feb. 29, 2024)","As Partners CO.,LTD.",Standard,,,1920,517(OA136.5),
-"Apr. 01, 2024  (Mar. 01, 2024)",SBI RHEOS HIFUMI Inc. **,165A,,,-,-,100
-"Apr. 01, 2024  (Mar. 01, 2024)",SBI RHEOS HIFUMI Inc. **,Growth,,-,-,-,-
-"Apr. 01, 2024  (Mar. 01, 2024)",TASUKI Holdings Inc. **,166A,,,-,-,100
-"Apr. 01, 2024  (Mar. 01, 2024)",TASUKI Holdings Inc. **,Growth,,-,-,-,-
-"Apr. 01, 2024  (Mar. 01, 2024)","Ryoyo Ryosan Holdings,Inc. **",167A,,,-,-,100
-"Apr. 01, 2024  (Mar. 01, 2024)","Ryoyo Ryosan Holdings,Inc. **",Prime,,-,-,-,-
-"Mar. 29, 2024  (Feb. 22, 2024)",Material Group Inc.,156A,,,"1,100-1,180",50,100
-"Mar. 29, 2024  (Feb. 22, 2024)",Material Group Inc.,Growth,,,1180,"4,837.1(OA733)",
-"Mar. 29, 2024  (Feb. 26, 2024)",Green Monster Inc.,157A,,,920-980,750,100
-"Mar. 29, 2024  (Feb. 26, 2024)",Green Monster Inc.,Growth,,,980,250(OA150),
-"Mar. 28, 2024  (Feb. 22, 2024)",Caulis Inc.,153A,,,"1,440-1,530",380,100
-"Mar. 28, 2024  (Feb. 22, 2024)",Caulis Inc.,Growth,,,1530,"1,210.7(OA238.6)",
-"Mar. 28, 2024  (Feb. 22, 2024)","Information Strategy and Technology Co.,Ltd.",155A,,,380-460,1470,100
-"Mar. 28, 2024  (Feb. 22, 2024)","Information Strategy and Technology Co.,Ltd.",Growth,,,460,600(OA310.5),
-"Mar. 27, 2024  (Feb. 20, 2024)",Columbia Works Inc.,146A,,,"3,110-3,300",833.4,100
-"Mar. 27, 2024  (Feb. 20, 2024)",Columbia Works Inc.,Standard,,,3300,80.1(OA137),
-"Mar. 27, 2024  (Feb. 21, 2024)","Thinca Co.,Ltd.",149A,,,"1,050-1,100",467,100
-"Mar. 27, 2024  (Feb. 21, 2024)","Thinca Co.,Ltd.",Growth,,,1320,153(OA93),
-"Mar. 27, 2024  (Feb. 21, 2024)",Dive Inc.,151A,,,"1,710-1,820",365,100
-"Mar. 27, 2024  (Feb. 21, 2024)",Dive Inc.,Growth,,,1820,250(OA92.2),
-"Mar. 26, 2024  (Feb. 20, 2024)",L is B Corp.,145A,,,920-990,800,100
-"Mar. 26, 2024  (Feb. 20, 2024)",L is B Corp.,Growth,,,1188,654.5(OA218.1),
-"Mar. 26, 2024  (Feb. 20, 2024)","SORACOM,INC.",147A,,,820-870,47338,100
-"Mar. 26, 2024  (Feb. 20, 2024)","SORACOM,INC.",Growth,,,870,"6,071.5(OA1,620.7)",
-"Mar. 26, 2024  (Feb. 20, 2024)","HATCH WORK CO.,LTD.",148A,,,"1,680-1,800",161.9,100
-"Mar. 26, 2024  (Feb. 20, 2024)","HATCH WORK CO.,LTD.",Growth,,,2160,141.4(OA45.4),
-"Mar. 26, 2024  (Feb. 21, 2024)","JSH Co.,Ltd.",150A,,,350-380,850,100
-"Mar. 26, 2024  (Feb. 21, 2024)","JSH Co.,Ltd.",Growth,,,456,(OA127.5),
-"Mar. 25, 2024  (Feb. 20, 2024)","Ishin Co.,Ltd.",143A,,,"1,000-1,080",240,100
-"Mar. 25, 2024  (Feb. 20, 2024)","Ishin Co.,Ltd.",Growth,,,1080,250(OA73.5),
-"Mar. 22, 2024  (Feb. 16, 2024)","JINJIB Co.,Ltd.",142A,,,"1,620-1,750",200,100
-"Mar. 22, 2024  (Feb. 16, 2024)","JINJIB Co.,Ltd.",Growth,,,1750,150(OA52.5),
-"Mar. 21, 2024  (Feb. 14, 2024)",Trial Holdings Inc.,141A,,,"1,600-1,700",21200,100
-"Mar. 21, 2024  (Feb. 14, 2024)",Trial Holdings Inc.,Growth,,,1700,"1,653.1(OA3,427.9)",
-"Mar. 21, 2024  (Feb. 20, 2024)","STG CO.,LTD.",5858,,,"1,820-1,920",150,100
-"Mar. 21, 2024  (Feb. 20, 2024)","STG CO.,LTD.",Growth,,,1920,160.5(OA46),
-"Mar. 18, 2024  (Mar. 11, 2024)","MINO CERAMIC CO.,LTD.",5356,,,-,-,100
-"Mar. 18, 2024  (Mar. 11, 2024)","MINO CERAMIC CO.,LTD.",Standard,,,-,-,
-"Mar. 13, 2024  (Mar. 06, 2024)","NAGOYA ELECTRIC WORKS CO.,LTD.",6797,,,-,-,100
-"Mar. 13, 2024  (Mar. 06, 2024)","NAGOYA ELECTRIC WORKS CO.,LTD.",Standard,,,-,-,
-"Feb. 28, 2024  (Jan. 24, 2024)","Cocolive,Inc.",137A,,,"1,720-1,780",150,100
-"Feb. 28, 2024  (Jan. 24, 2024)","Cocolive,Inc.",Growth,,,1780,465.3(OA92.2),
-"Feb. 28, 2024  (Jan. 25, 2024)","Hikari Food Service Co.,Ltd.",138A,,,"2,400-2,660",320,100
-"Feb. 28, 2024  (Jan. 25, 2024)","Hikari Food Service Co.,Ltd.",Growth,,,2660,(OA48),
-"Feb. 22, 2024  (Jan. 18, 2024)","VRAIN Solution,Inc.",135A,,,"2,790-2,990",210,100
-"Feb. 22, 2024  (Jan. 18, 2024)","VRAIN Solution,Inc.",Growth,,,2990,897.9(OA166.1),
-"Feb. 08, 2024  (Jan. 05, 2024)",Veritas In Silico Inc.,130A,,,"800-1,000",800,100
-"Feb. 08, 2024  (Jan. 05, 2024)",Veritas In Silico Inc.,Growth,,,1000,(OA120),
-"Feb. 07, 2024  (Dec. 25, 2023)",SOLIZE Corporation,5871,,,"1,380-1,470",995.2,100
-"Feb. 07, 2024  (Dec. 25, 2023)",SOLIZE Corporation,Standard,,,1470,(OA149.2),
+Date of Listing (Date of Listing Approval),Issue Name*3,Code,Outline *4,Written Confirmation *6,Indicated Range (JPY),Public Offering (thous. shares),Trading Unit,Market Segment,Securities Report (part I) *5,CG Report,Offering Price (JPY),Secondary Distribution (thous. shares)*7,Earnings Report *8
+"Jul. 02, 2024  (May 27, 2024)","PRISM BioLab Co.,LTD",206A,,,-,4000,100,Growth,,,-,(OA600),-
+"Jul. 01, 2024  (Jun. 03, 2024)",KOZO KEIKAKU ENGINEERING HOLDINGS Inc. **,208A,,,-,-,100,Standard,,-,-,-,-
+"Jun. 28, 2024  (May 24, 2024)",LOGOS HOLDINGS INC.,205A,,,-,50,100,Growth,,,-,"1,346.4(OA209.4)",-
+"Jun. 27, 2024  (May 23, 2024)","MAMEZO DIGITAL HOLDINGS CO.,LTD.",202A,,,-,50,100,Growth,,,-,"4,480(OA607.5)",-
+"Jun. 21, 2024  (May 17, 2024)","MFS,Inc.",196A,,,370-400,2700,100,Growth,,,-,"1,624.2(OA648.6)",-
+"Jun. 20, 2024  (May 16, 2024)","WOLVES HAND Co.,Ltd.",194A,,,755-770,50,100,Growth,,,-,863.1(OA136.9),-
+"Jun. 20, 2024  (May 17, 2024)","TAUNS Laboratories,Inc.",197A,,,440-460,-,100,Standard,,,-,"21,090(OA3,163.5)",-
+"Jun. 20, 2024  (May 17, 2024)",PostPrime Inc.,198A,,,430-450,100,100,Growth,,,-,"2,830(OA439.5)",-
+"Jun. 19, 2024  (May 16, 2024)",Ricecurry Inc.,195A,,,"1,240-1,420",229.5,100,Growth,,,-,476.6(OA105.9),-
+"Jun. 18, 2024  (May 15, 2024)",Integroup Inc.,192A,,,"3,830-3,960",50,100,Growth,,,-,480.2(OA79.4),-
+"Jun. 14, 2024  (May 10, 2024)",Chordia Therapeutics Inc.,190A,,,143-153,9100,100,Growth,,,153,"(OA1,365)",-
+"Jun. 11, 2024  (May 08, 2024)","D&M COMPANY CO.,LTD",189A,,,"950-1,000",580,100,Growth,,,1000,100(OA102),-
+"Jun. 05, 2024  (May 01, 2024)",Astroscale Holdings Inc.,186A,,,750-850,22169.2,100,Growth,,,850,"2,760(OA3,124.9)",
+"Jun. 03, 2024  (May 01, 2024)","SAMTY HOLDINGS Co.,Ltd. **",187A,,,-,-,100,Prime,,-,-,-,-
+"May. 28, 2024  (Apr. 22, 2024)","Manabi-aid Co.,Ltd.",184A,,,910-970,180,100,Growth,,,970,552(OA109.8),
+"Apr. 25, 2024  (Mar. 22, 2024)","Kohjin Bio Co.,Ltd.",177A,,,"1,840-1,900",850,100,Growth,,,1900,(OA127.5),
+"Apr. 24, 2024  (Mar. 21, 2024)",Rezil Inc.,176A,,,"1,100-1,200",150,100,Growth,,,1200,"5,005.1(OA773.2)",
+"Apr. 16, 2024  (Mar. 13, 2024)","Will Smart Co.,LTD.",175A,,,"1,320-1,380",200,100,Growth,,,1656,472(OA100.8),
+"Apr. 11, 2024  (Mar. 07, 2024)",Hammock Inc.,173A,,,"1,940-2,060",50,100,Growth,,,2060,"1,277(OA199)",
+"Apr. 08, 2024  (Mar. 04, 2024)",itamiarts inc.,168A,,,"1,580-1,600",420,100,Growth,,,1600,150(OA85.5),
+"Apr. 04, 2024  (Feb. 29, 2024)","As Partners CO.,LTD.",160A,,,"1,890-1,920",393,100,Standard,,,1920,517(OA136.5),
+"Apr. 01, 2024  (Mar. 01, 2024)",SBI RHEOS HIFUMI Inc. **,165A,,,-,-,100,Growth,,-,-,-,-
+"Apr. 01, 2024  (Mar. 01, 2024)",TASUKI Holdings Inc. **,166A,,,-,-,100,Growth,,-,-,-,-
+"Apr. 01, 2024  (Mar. 01, 2024)","Ryoyo Ryosan Holdings,Inc. **",167A,,,-,-,100,Prime,,-,-,-,-
+"Mar. 29, 2024  (Feb. 22, 2024)",Material Group Inc.,156A,,,"1,100-1,180",50,100,Growth,,,1180,"4,837.1(OA733)",
+"Mar. 29, 2024  (Feb. 26, 2024)",Green Monster Inc.,157A,,,920-980,750,100,Growth,,,980,250(OA150),
+"Mar. 28, 2024  (Feb. 22, 2024)",Caulis Inc.,153A,,,"1,440-1,530",380,100,Growth,,,1530,"1,210.7(OA238.6)",
+"Mar. 28, 2024  (Feb. 22, 2024)","Information Strategy and Technology Co.,Ltd.",155A,,,380-460,1470,100,Growth,,,460,600(OA310.5),
+"Mar. 27, 2024  (Feb. 20, 2024)",Columbia Works Inc.,146A,,,"3,110-3,300",833.4,100,Standard,,,3300,80.1(OA137),
+"Mar. 27, 2024  (Feb. 21, 2024)","Thinca Co.,Ltd.",149A,,,"1,050-1,100",467,100,Growth,,,1320,153(OA93),
+"Mar. 27, 2024  (Feb. 21, 2024)",Dive Inc.,151A,,,"1,710-1,820",365,100,Growth,,,1820,250(OA92.2),
+"Mar. 26, 2024  (Feb. 20, 2024)",L is B Corp.,145A,,,920-990,800,100,Growth,,,1188,654.5(OA218.1),
+"Mar. 26, 2024  (Feb. 20, 2024)","SORACOM,INC.",147A,,,820-870,47338,100,Growth,,,870,"6,071.5(OA1,620.7)",
+"Mar. 26, 2024  (Feb. 20, 2024)","HATCH WORK CO.,LTD.",148A,,,"1,680-1,800",161.9,100,Growth,,,2160,141.4(OA45.4),
+"Mar. 26, 2024  (Feb. 21, 2024)","JSH Co.,Ltd.",150A,,,350-380,850,100,Growth,,,456,(OA127.5),
+"Mar. 25, 2024  (Feb. 20, 2024)","Ishin Co.,Ltd.",143A,,,"1,000-1,080",240,100,Growth,,,1080,250(OA73.5),
+"Mar. 22, 2024  (Feb. 16, 2024)","JINJIB Co.,Ltd.",142A,,,"1,620-1,750",200,100,Growth,,,1750,150(OA52.5),
+"Mar. 21, 2024  (Feb. 14, 2024)",Trial Holdings Inc.,141A,,,"1,600-1,700",21200,100,Growth,,,1700,"1,653.1(OA3,427.9)",
+"Mar. 21, 2024  (Feb. 20, 2024)","STG CO.,LTD.",5858,,,"1,820-1,920",150,100,Growth,,,1920,160.5(OA46),
+"Mar. 18, 2024  (Mar. 11, 2024)","MINO CERAMIC CO.,LTD.",5356,,,-,-,100,Standard,,,-,-,
+"Mar. 13, 2024  (Mar. 06, 2024)","NAGOYA ELECTRIC WORKS CO.,LTD.",6797,,,-,-,100,Standard,,,-,-,
+"Feb. 28, 2024  (Jan. 24, 2024)","Cocolive,Inc.",137A,,,"1,720-1,780",150,100,Growth,,,1780,465.3(OA92.2),
+"Feb. 28, 2024  (Jan. 25, 2024)","Hikari Food Service Co.,Ltd.",138A,,,"2,400-2,660",320,100,Growth,,,2660,(OA48),
+"Feb. 22, 2024  (Jan. 18, 2024)","VRAIN Solution,Inc.",135A,,,"2,790-2,990",210,100,Growth,,,2990,897.9(OA166.1),
+"Feb. 08, 2024  (Jan. 05, 2024)",Veritas In Silico Inc.,130A,,,"800-1,000",800,100,Growth,,,1000,(OA120),
+"Feb. 07, 2024  (Dec. 25, 2023)",SOLIZE Corporation,5871,,,"1,380-1,470",995.2,100,Standard,,,1470,(OA149.2),
